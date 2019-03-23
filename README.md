@@ -1,16 +1,17 @@
 # Buffed Trident Drops v0.2 for Minecraft 1.13+
 
-A datapack for Minecraft 1.13+ which increases the drop rate of tridents from Drowned
+A datapack for Minecraft 1.13+ which increases the drop rate of tridents from Drowned to 100%
 
 ## How to setup
 
-1. Download the zip file for the [latest release](https://github.com/DrHenchman/buffed-tridents/releases/download/v0.1/buffed-tridents.zip) of the datapack
+1. Download the zip file for this datapack
 2. Place the zip file in in the `<world>/datapacks/` folder
 3. Run `/reload` on your server to detect the new datapack
 
 ## Credits
 
 * DrHenchman - Creator of the datapack
+* AJMFactsheets - Modified the pack to drop 100% of the time
 
 ## License
 
